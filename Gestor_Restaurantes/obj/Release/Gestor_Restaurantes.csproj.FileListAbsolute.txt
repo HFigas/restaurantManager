@@ -1,0 +1,36 @@
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\bin\Release\Gestor_Restaurantes.exe.config
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\bin\Release\Gestor_Restaurantes.exe
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\bin\Release\Gestor_Restaurantes.pdb
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\bin\Release\MySql.Data.dll
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.AddEmp.resources
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.AddRes.resources
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.Form1.resources
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.FormEmp.resources
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.FormRes.resources
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.Properties.Resources.resources
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.RemEmp.resources
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.RemRes.resources
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.csproj.GenerateResource.Cache
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.exe
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.pdb
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\bin\Release\dbrest.accdb
+C:\Users\HugoF\Documents\Visual Studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.csprojResolveAssemblyReference.cache
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\bin\Release\dbrest.accdb
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\bin\Release\Gestor_Restaurantes.exe.config
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\bin\Release\Gestor_Restaurantes.exe
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\bin\Release\Gestor_Restaurantes.pdb
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.csproj.AssemblyReference.cache
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.AddEmp.resources
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.AddRes.resources
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.Form1.resources
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.FormEmp.resources
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.FormRes.resources
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.Properties.Resources.resources
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.RemEmp.resources
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.RemRes.resources
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.csproj.GenerateResource.cache
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.csproj.CoreCompileInputs.cache
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.csproj.CopyComplete
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.exe
+C:\Users\hugo-\Documents\ISMAI\Gestor_Restaurantes\Gestor_Restaurantes\obj\Release\Gestor_Restaurantes.pdb

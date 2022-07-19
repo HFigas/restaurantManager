@@ -1,0 +1,16 @@
+c:\users\hugof\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.Form1.resources
+c:\users\hugof\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.Properties.Resources.resources
+c:\users\hugof\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.csproj.GenerateResource.Cache
+c:\users\hugof\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\bin\Debug\Gestor_Restaurantes.exe.config
+c:\users\hugof\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\bin\Debug\Gestor_Restaurantes.exe
+c:\users\hugof\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\bin\Debug\Gestor_Restaurantes.pdb
+c:\users\hugof\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.exe
+c:\users\hugof\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.pdb
+c:\users\hugof\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.csprojResolveAssemblyReference.cache
+c:\users\hugof\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\bin\Debug\MySql.Data.dll
+C:\Users\HugoF\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.AddEmp.resources
+C:\Users\HugoF\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.FormEmp.resources
+C:\Users\HugoF\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.RemEmp.resources
+C:\Users\HugoF\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.AddRes.resources
+C:\Users\HugoF\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.FormRes.resources
+C:\Users\HugoF\documents\visual studio 2017\Projects\Gestor_Restaurantes\Gestor_Restaurantes\obj\Debug\Gestor_Restaurantes.RemRes.resources
